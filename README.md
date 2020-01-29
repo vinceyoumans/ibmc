@@ -1,11 +1,10 @@
 # Challenge
 
-I ate a snadwiche, answered some email... and fixed this project.
-But it was very difficult to work on the other computer and
+That was really not the way I work....   The computer had a damaged keyboard, it was dark and 
+working that way is not easy.  
 I would like to get another chance if possible.
-however, I would like to use a different screen sharing system,
-and use MSCode.
+in the meantime, I fixed it and added testing.
 
-so I also included test suite
 and I may also dockerize it latter.
 
+cheers
